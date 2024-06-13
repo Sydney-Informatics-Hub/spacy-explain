@@ -1,6 +1,8 @@
 # SpaCy Explainer
 
-This is an explainer notebook for SpaCy Part-of-Speech, Part-of-Speech (fine-grained), and Dependency tags. When SpaCy processes text, it applies a tokenization process first. From there, each token is assigned various tags to categorise it. Below is a list of identifiers for each tag
+This is an explainer notebook for SpaCy Part-of-Speech, Part-of-Speech (fine-grained), and Dependency tags. When SpaCy processes text, it applies a tokenization process first. From there, each token is assigned various tags to categorise it. Below is a list of identifiers for each tag.
+
+[![Binder](https://binderhub.atap-binder.cloud.edu.au/badge_logo.svg)](https://binderhub.atap-binder.cloud.edu.au/v2/gh/Sydney-Informatics-Hub/spacy-explain/main?labpath=spacy-demo.ipynb)
 
 ## Identifiers
 
